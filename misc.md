@@ -4,6 +4,10 @@
 
 [Smart Pointers](https://ootips.org/yonat/4dev/smart-pointers.html)
 
+[Design Patterns](https://refactoring.guru/design-patterns/catalog)
+
+[Anti-patterns](https://sourcemaking.com/antipatterns)
+
 [Uber Tech Stack](https://www.uber.com/en-GB/blog/tech-stack-part-one-foundation/)
 
 [Principles of Software Engineering](http://nathanmarz.com/blog/principles-of-software-engineering-part-1.html)
