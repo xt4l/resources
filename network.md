@@ -7,3 +7,5 @@
 [Sockets Tutorial](http://www.cs.rpi.edu/~moorthy/Courses/os98/Pgms/socket.html)
 
 [TCP RFC](https://www.rfc-editor.org/rfc/rfc793#page-1)
+
+[W. Richard Stevens](http://www.kohala.com/start)
