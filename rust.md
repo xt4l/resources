@@ -44,3 +44,5 @@
 
 [Rust in Linux Kernel](https://security.googleblog.com/2021/04/rust-in-linux-kernel.html)
 
+[Supporting the Use of Rust in the Chromium Project](https://security.googleblog.com/2023/01/supporting-use-of-rust-in-chromium.html)
+
