@@ -1,6 +1,6 @@
 # Rust
 
-## Books
+## Books/Docs
 [Rust Book](https://doc.rust-lang.org/book/title-page.html)
 
 [Rustonomicon](https://doc.rust-lang.org/nomicon/intro.html)
