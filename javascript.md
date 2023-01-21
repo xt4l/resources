@@ -1,7 +1,7 @@
 # Javascript
 
 ## Books/Docs
-[Eloquent Javascript](https://eloquentjavascript.net/00_intro.html)
+[Eloquent Javascript](https://eloquentjavascript.net)
 
 [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed)
 
