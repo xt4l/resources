@@ -39,3 +39,5 @@
 [Leakpocalypse](https://cglab.ca/~abeinges/blah/everyone-poops/)
 
 [Using Rust's TcpStream](https://thepacketgeek.com/rust/tcpstream/)
+
+[Memory Safety](https://hacks.mozilla.org/2019/01/fearless-security-memory-safety/)
