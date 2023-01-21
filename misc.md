@@ -12,4 +12,6 @@
 
 [Finite and Infinite Machines](http://www.cba.mit.edu/events/03.11.ASE/docs/Minsky.pdf)
 
-[]()
+[Communicating Sequential Processes](https://dl.acm.org/doi/pdf/10.1145/359576.359585)
+
+[Required Knowledge For Building an OS](https://wiki.osdev.org/Required_Knowledge)
