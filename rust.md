@@ -41,3 +41,6 @@
 [Using Rust's TcpStream](https://thepacketgeek.com/rust/tcpstream/)
 
 [Memory Safety](https://hacks.mozilla.org/2019/01/fearless-security-memory-safety/)
+
+[Rust in Linux Kernel](https://security.googleblog.com/2021/04/rust-in-linux-kernel.html)
+
