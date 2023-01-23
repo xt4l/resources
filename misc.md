@@ -19,3 +19,5 @@
 [Communicating Sequential Processes](https://dl.acm.org/doi/pdf/10.1145/359576.359585)
 
 [Required Knowledge For Building an OS](https://wiki.osdev.org/Required_Knowledge)
+
+[Development and Deployment of Massively Multiplayer Games](http://ithare.com/contents-of-development-and-deployment-of-massively-multiplayer-games-from-social-games-to-mmofps-with-stock-exchanges-in-between/)
