@@ -21,3 +21,7 @@
 [Required Knowledge For Building an OS](https://wiki.osdev.org/Required_Knowledge)
 
 [Development and Deployment of Massively Multiplayer Games](http://ithare.com/contents-of-development-and-deployment-of-massively-multiplayer-games-from-social-games-to-mmofps-with-stock-exchanges-in-between/)
+
+[Computer Graphics From Scratch](https://gabrielgambetta.com/computer-graphics-from-scratch/)
+
+[Scratchapixel](https://www.scratchapixel.com/index.html)
