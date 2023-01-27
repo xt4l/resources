@@ -21,6 +21,8 @@
 
 [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/about.html)
 
+[Atomics and Locks](https://marabos.nl/atomics/)
+
 [Luminance](https://phaazon.github.io/learn-luminance/)
 
 [wgpu](https://sotrh.github.io/learn-wgpu/)
