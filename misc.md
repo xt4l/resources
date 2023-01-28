@@ -8,6 +8,10 @@
 
 [Anti-patterns](https://sourcemaking.com/antipatterns)
 
+[Free Computer Books](https://freecomputerbooks.com/)
+
+[The UNIX CD Bookshelf](https://www.e-reading.mobi/htmbook.php/orelly/unix3/)
+
 [Uber Tech Stack](https://www.uber.com/en-GB/blog/tech-stack-part-one-foundation/)
 
 [Principles of Software Engineering](http://nathanmarz.com/blog/principles-of-software-engineering-part-1.html)
