@@ -12,6 +12,8 @@
 
 [The UNIX CD Bookshelf](https://www.e-reading.mobi/htmbook.php/orelly/unix3/)
 
+[Syscall table](https://filippo.io/linux-syscall-table/)
+
 [Uber Tech Stack](https://www.uber.com/en-GB/blog/tech-stack-part-one-foundation/)
 
 [Principles of Software Engineering](http://nathanmarz.com/blog/principles-of-software-engineering-part-1.html)
