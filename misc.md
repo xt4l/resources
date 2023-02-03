@@ -31,3 +31,5 @@
 [Computer Graphics From Scratch](https://gabrielgambetta.com/computer-graphics-from-scratch/)
 
 [Scratchapixel](https://www.scratchapixel.com/index.html)
+
+[Data Formats](http://paulbourke.net/dataformats)
