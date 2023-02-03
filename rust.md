@@ -19,6 +19,8 @@
 
 [Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/index.html)
 
+[Stype Guidelines](https://doc.rust-lang.org/1.0.0/style/README.html)
+
 [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/about.html)
 
 [Atomics and Locks](https://marabos.nl/atomics/)
