@@ -36,6 +36,8 @@
 
 [Writing an OS - Async/Await](https://os.phil-opp.com/async-await/)
 
+[100k Lines of Rust](https://matklad.github.io/2021/09/05/Rust100k.html)
+
 [Turbofish](https://techblog.tonsser.com/posts/what-is-rusts-turbofish)
 
 [Dynamic Dispatch](https://medium.com/digitalfrontiers/rust-dynamic-dispatching-deep-dive-236a5896e49b)
