@@ -11,3 +11,7 @@
 [W. Richard Stevens](http://www.kohala.com/start)
 
 [Unix Network Programming](https://mathcs.clarku.edu/~jbreecher/cs280/UNIX%20Network%20Programming(Volume1,3rd).pdf)
+
+[QUIC](https://datatracker.ietf.org/doc/html/rfc9000)
+
+[TFTP](https://datatracker.ietf.org/doc/html/rfc1350)
