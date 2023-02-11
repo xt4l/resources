@@ -32,6 +32,18 @@
 ## Blogs/Tutorials
 [Tokio](https://tokio.rs/tokio/tutorial)
 
+[Alice Rhyl's Blog](https://ryhl.io/)
+
+[Adam Chalmers' Blog](https://blog.adamchalmers.com/)
+
+[Michael Bryan's Blog](https://adventures.michaelfbryan.com/posts/)
+
+[Henri Sivonen’s Blog](https://hsivonen.fi/)
+
+[Rust Magazine](https://rustmagazine.org/)
+
+[Debugging with lldb](https://dev.to/bmatcuk/debugging-rust-with-rust-lldb-j1f)
+
 [Async Waker API](https://boats.gitlab.io/blog/post/wakers-i/)
 
 [Writing an OS - Async/Await](https://os.phil-opp.com/async-await/)
