@@ -12,6 +12,8 @@
 
 [The UNIX CD Bookshelf](https://www.e-reading.mobi/htmbook.php/orelly/unix3/)
 
+[backreference.org](https://backreference.org/index.html)
+
 [Syscall table](https://filippo.io/linux-syscall-table/)
 
 [Uber Tech Stack](https://www.uber.com/en-GB/blog/tech-stack-part-one-foundation/)
