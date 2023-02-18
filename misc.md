@@ -14,6 +14,8 @@
 
 [backreference.org](https://backreference.org/index.html)
 
+[Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code)
+
 [Syscall table](https://filippo.io/linux-syscall-table/)
 
 [Uber Tech Stack](https://www.uber.com/en-GB/blog/tech-stack-part-one-foundation/)
